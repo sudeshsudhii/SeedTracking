@@ -21,4 +21,3 @@ describe("Storage", function () {
     expect((await storage2.retrieve()).toNumber()).to.equal(56);
   });
 });
-// TODO: add edge cases
