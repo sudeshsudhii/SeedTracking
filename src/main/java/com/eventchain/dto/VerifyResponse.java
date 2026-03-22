@@ -17,4 +17,3 @@ public class VerifyResponse {
     private String message;
 }
 
-// TODO: fix typo in field
