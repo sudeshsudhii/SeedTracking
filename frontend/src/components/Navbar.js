@@ -123,4 +123,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-// TODO: responsive layout
