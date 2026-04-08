@@ -718,4 +718,3 @@ initServices().then(() => {
         console.log(`SeedChain Backend running on port ${PORT} (degraded mode)`);
     });
 });
-// TODO: add cors
