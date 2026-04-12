@@ -338,4 +338,3 @@ contract SeedChain {
         certificates[_certId].isValid = false;
     }
 }
-// TODO: optimize gas
