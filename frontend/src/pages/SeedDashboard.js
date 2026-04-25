@@ -97,4 +97,3 @@ const SeedDashboard = () => {
 };
 
 export default SeedDashboard;
-// TODO: handle loading
