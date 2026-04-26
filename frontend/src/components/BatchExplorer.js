@@ -235,4 +235,3 @@ const BatchExplorer = () => {
 };
 
 export default BatchExplorer;
-  
