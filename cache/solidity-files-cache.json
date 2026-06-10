@@ -1,0 +1,252 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\1_Storage.sol": {
+      "lastModificationDate": 1775490818145,
+      "contentHash": "ccc2be27c965fbb469e42dc76bd3f873",
+      "sourceName": "contracts/1_Storage.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "Storage"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\2_Owner.sol": {
+      "lastModificationDate": 1775490818145,
+      "contentHash": "f86efb6460a419f0ca056ef28763c405",
+      "sourceName": "contracts/2_Owner.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Owner"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1775491244919,
+      "contentHash": "681c532e816169606d13a5fe8b475074",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\3_Ballot.sol": {
+      "lastModificationDate": 1775490818145,
+      "contentHash": "d871d823553b1653daa8a57385457a1b",
+      "sourceName": "contracts/3_Ballot.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\EventChain.sol": {
+      "lastModificationDate": 1775490818146,
+      "contentHash": "8ffb651c51f98e061073dc0819ca2948",
+      "sourceName": "contracts/EventChain.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "EventChain"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\RationDistribution.sol": {
+      "lastModificationDate": 1775490818146,
+      "contentHash": "0cd4a08d67c9b6c2ab119d9df834e669",
+      "sourceName": "contracts/RationDistribution.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RationDistribution"
+      ]
+    },
+    "E:\\Projects ongoing\\EVNT\\Public-Distribution-System\\contracts\\SeedChain.sol": {
+      "lastModificationDate": 1775496679925,
+      "contentHash": "c813ebc4d408936c3e00d6d5c01a5c2a",
+      "sourceName": "contracts/SeedChain.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "SeedChain"
+      ]
+    }
+  }
+}
